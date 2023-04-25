@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a125e820886e3254cb4ff0d847fbe0d6, type: 3}
+  m_Name: VegetationPropsTile
+  m_EditorClassIdentifier: 
+  tileName: Grass
+  tileSprites:
+  - {fileID: -6956357820720668745, guid: 706095caa8c60374b8867d789864250a, type: 3}
+  - {fileID: -6956357820720668745, guid: 706095caa8c60374b8867d789864250a, type: 3}
+  - {fileID: -5754109757834980608, guid: 706095caa8c60374b8867d789864250a, type: 3}
+  - {fileID: -5358234530699879422, guid: 706095caa8c60374b8867d789864250a, type: 3}
+  - {fileID: -6991794038019918606, guid: 706095caa8c60374b8867d789864250a, type: 3}
+  - {fileID: -7270410417022846323, guid: 706095caa8c60374b8867d789864250a, type: 3}
+  - {fileID: -922454219991527994, guid: 706095caa8c60374b8867d789864250a, type: 3}
+  - {fileID: 6138680278838725794, guid: 706095caa8c60374b8867d789864250a, type: 3}
+  - {fileID: -180232178959487186, guid: 706095caa8c60374b8867d789864250a, type: 3}
+  - {fileID: 7497367039862481026, guid: 706095caa8c60374b8867d789864250a, type: 3}
+  - {fileID: -3274754883251895909, guid: 706095caa8c60374b8867d789864250a, type: 3}
+  - {fileID: -170708402282451403, guid: 706095caa8c60374b8867d789864250a, type: 3}
+  - {fileID: -8522170375387160365, guid: 706095caa8c60374b8867d789864250a, type: 3}
+  - {fileID: 8818778457139991866, guid: 706095caa8c60374b8867d789864250a, type: 3}
+  rarity: 0

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 323c5f5956ca56248946d2afbce50be6, type: 3}
+  m_Name: Grassland
+  m_EditorClassIdentifier: 
+  grass: {fileID: 11400000, guid: b1f9e4a584e0e4c4097fb9e95ee5aa25, type: 2}
+  dirt: {fileID: 11400000, guid: c216f4a6e1cee1444bf4e94978866450, type: 2}
+  stone: {fileID: 11400000, guid: 111234ae0e759474eac8753966b4081f, type: 2}
+  tree_Start: {fileID: 11400000, guid: f248f39b7bbdb1b4082f0a100d187d94, type: 2}
+  tree_Start_Left: {fileID: 11400000, guid: 50db9e3695665e74f9141ddfdfb029a7, type: 2}
+  tree_Start_Right: {fileID: 11400000, guid: 4fc4b9453c294f54aa8118a292225673, type: 2}
+  tree_middle: {fileID: 11400000, guid: 336412f44cbbfb34eb6d7577311ed194, type: 2}
+  leaf: {fileID: 11400000, guid: 752d75e897fed8a458b88c53e6b780af, type: 2}
+  tree_Branch: {fileID: 11400000, guid: f0e90ba6ef4b70c44808d90b27792618, type: 2}
+  tree_Branch_End: {fileID: 11400000, guid: 052372a28d563734bbfe2e9eb35cf1ec, type: 2}
+  tree_Branch_End_Lower: {fileID: 11400000, guid: 0786c27a1ff084041aa1fcae98eb6ab6, type: 2}
+  tree_Branch_End_Upper: {fileID: 11400000, guid: 54b1c5e534c715940a602676b32c7b81, type: 2}
+  tallGrass: {fileID: 11400000, guid: 60d4654004364da489da90404fdcd5cd, type: 2}
+  snow: {fileID: 11400000, guid: b685274027bd7a1428408907527f6ecc, type: 2}
+  sand: {fileID: 11400000, guid: c98c11348fb249748a5e1f971a0ee42b, type: 2}
+  coal: {fileID: 11400000, guid: 686cb6ae64de9c2438972034d19a4ccb, type: 2}
+  iron: {fileID: 11400000, guid: 47bf1e0fad3a39641b18f5a69f40e67f, type: 2}
+  gold: {fileID: 11400000, guid: 09c753486b0033145a1c691456606759, type: 2}
+  diamond: {fileID: 11400000, guid: 272b9c6ed32b54a43a88156da3a32496, type: 2}
